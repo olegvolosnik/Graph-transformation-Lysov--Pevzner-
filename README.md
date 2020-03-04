@@ -1,2 +1,2 @@
-# Graph-transformation-Lysov--Pevzner-
+# Graph-transformation-Lysov-->-Pevzner-
 Transformation original graph to adjoint
